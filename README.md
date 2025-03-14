@@ -5,5 +5,5 @@ This project demonstrates the essential functions of Node.js' `path` module.
 ## 📦 Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/path-utils.git
+   git clone https://github.com/malekbeloula/path-utils.git
    cd path-utils
