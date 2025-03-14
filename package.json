@@ -1,0 +1,20 @@
+{
+  "name": "path-utils",
+  "version": "1.0.0",
+  "main": "src/pathExample.js",
+  "scripts": {
+    "start": "node src/pathExample.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "path",
+    "utilities"
+  ],
+  "author": "mbello",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
